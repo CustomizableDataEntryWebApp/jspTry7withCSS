@@ -1,0 +1,140 @@
+/* Set page color and format */
+.body
+{
+	background: white;
+	text-align:center;
+}
+/*Format top of page*/
+.header
+{
+	position:relative;  
+	text-align:center;
+}
+/*Homepage layout*/
+
+.button {
+    background-color:#09F ;
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    font-size: 10px;
+    cursor: pointer;
+}
+
+.search {
+    background-color: #F60 ;
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    font-size: 10px;
+    cursor: pointer;
+}
+
+/*Container div Bio all pages*/'
+
+
+.container
+{
+	color: black;
+	text-align: center;
+	background-color: #fff;
+	width: 820px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	right: 10px;
+	font-style: normal;
+	overflow: hidden;
+}
+
+
+ input[username] {
+      font-size: 20px;
+      text-align: center;
+	  color: #666
+      }
+ input[password] {
+      font-size: 20px;
+      text-align: center;
+      }
+	  
+ input[field1] {
+      font-size: 20px;
+      text-align: center;
+	  color: #666
+      }
+ input[field2] {
+      font-size: 20px;
+      text-align: center;
+      }
+ input[field3] {
+      font-size: 20px;
+      text-align: center;
+	  color: #666
+      }
+ input[field4] {
+      font-size: 20px;
+      text-align: center;
+      }
+ input[field5] {
+      font-size: 20px;
+      text-align: center;
+	  color: #666
+      }
+ input[field6] {
+      font-size: 20px;
+      text-align: center;
+	  color: #666
+      }
+ input[field7] {
+      font-size: 20px;
+      text-align: center;
+      }
+ input[field8] {
+      font-size: 20px;
+      text-align: center;
+	  color: #666
+      }
+ input[field9] {
+      font-size: 20px;
+      text-align: center;
+      }
+ input[field10] {
+      font-size: 20px;
+      text-align: center;
+	  color: #666
+      }
+/*Pseudo-class for text formatting*/
+#underline
+{
+text-decoration: underline;
+}
+
+#checklist
+{
+	font-size:  18px;
+}
+
+#underline1
+{
+text-decoration: underline overline;
+}
+
+a:link {
+    color: orange;
+}
+		
+a:hover {
+	color: lightgreen;;		
+}
+
+a:visited {
+	color:yellow;
+}
+
+a:active {
+	color:red;
+}
